@@ -10,3 +10,11 @@ This repository contains JavaScript functions to perform various bitwise operati
 function bitwiseAND(num, num2) {
     return num & num2;
 }
+
+| A | B | A AND B |
+|---|---|---------|
+| 0 | 0 |   0     |
+| 0 | 1 |   0     |
+| 1 | 0 |   0     |
+| 1 | 1 |   1     |
+
